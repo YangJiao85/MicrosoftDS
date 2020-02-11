@@ -1,0 +1,86 @@
+
+For column CountryRegionName
+United States     6935
+Australia         3194
+United Kingdom    1709
+France            1591
+Germany           1577
+Canada            1398
+Name: CountryRegionName, dtype: int64
+
+For column Education
+Bachelors              4758
+Partial College        4451
+High School            2944
+Graduate Degree        2851
+Partial High School    1400
+Name: Education, dtype: int64
+
+For column Occupation
+Professional      4922
+Skilled Manual    4038
+Management        2718
+Clerical          2597
+Manual            2129
+Name: Occupation, dtype: int64
+
+For column Gender
+M    8290
+F    8114
+Name: Gender, dtype: int64
+
+For column MaritalStatus
+M    8852
+S    7552
+Name: MaritalStatus, dtype: int64
+
+For column HomeOwnerFlag
+1    11058
+0     5346
+Name: HomeOwnerFlag, dtype: int64
+
+For column AgeGroup
+25-45    9981
+<25      2932
+45-55    2437
+>55      1054
+Name: AgeGroup, dtype: int64
+
+For column NCarsGroup
+1-2    10066
+No      3782
+>=3     2556
+Name: NCarsGroup, dtype: int64
+
+For column NChildrenGroup
+No     9924
+>=1    6480
+Name: NChildrenGroup, dtype: int64
+
+For column NumberCarsOwned
+2    5741
+1    4325
+0    3782
+3    1429
+4    1127
+Name: NumberCarsOwned, dtype: int64
+
+For column NumberChildrenAtHome
+0    9924
+1    2180
+2    1455
+3    1057
+4     943
+5     845
+Name: NumberChildrenAtHome, dtype: int64
+
+For column TotalChildren
+0    4244
+2    3166
+1    3054
+4    2250
+3    1977
+5    1713
+Name: TotalChildren, dtype: int64
+None
+
