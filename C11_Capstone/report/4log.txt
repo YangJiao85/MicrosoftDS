@@ -1,0 +1,101 @@
+Load Features and Labels
+(187297, 130)
+(187297,)
+(167297, 130)
+(20000, 130)
+Mean Square Error      = 1.2268474999999999
+Root Mean Square Error = 1.1076314820372342
+Mean Absolute Error    = 0.613535
+Median Absolute Error  = 0.3999999999999999
+R^2                    = 0.6022519281540475
+Unable to create basic Accelerated OpenGL renderer.
+Unable to create basic Accelerated OpenGL renderer.
+Core Image is now using the software OpenGL renderer. This will be slow.
+['msa_md_29' 'msa_md_104' 'msa_md_109' 'msa_md_117' 'msa_md_154'
+ 'msa_md_157' 'msa_md_215' 'msa_md_261' 'msa_md_332' 'msa_md_340'
+ 'msa_md_345' 'msa_md_348' 'msa_md_349' 'msa_md_352' 'msa_md_360'
+ 'msa_md_362' 'state_code_0' 'state_code_1' 'state_code_2' 'state_code_3'
+ 'state_code_6' 'state_code_8' 'state_code_9' 'state_code_10'
+ 'state_code_11' 'state_code_12' 'state_code_13' 'state_code_15'
+ 'state_code_17' 'state_code_18' 'state_code_22' 'state_code_23'
+ 'state_code_24' 'state_code_26' 'state_code_28' 'state_code_29'
+ 'state_code_30' 'state_code_32' 'state_code_33' 'state_code_34'
+ 'state_code_35' 'state_code_36' 'state_code_40' 'state_code_44'
+ 'state_code_45' 'state_code_47' 'state_code_49' 'county_code_13'
+ 'county_code_17' 'county_code_19' 'county_code_20' 'county_code_39'
+ 'county_code_44' 'county_code_46' 'county_code_48' 'county_code_60'
+ 'county_code_77' 'county_code_81' 'county_code_82' 'county_code_89'
+ 'county_code_98' 'county_code_122' 'county_code_145' 'county_code_153'
+ 'county_code_157' 'county_code_164' 'county_code_169' 'county_code_176'
+ 'county_code_184' 'county_code_187' 'county_code_192' 'county_code_196'
+ 'county_code_197' 'county_code_209' 'county_code_222' 'county_code_223'
+ 'county_code_224' 'county_code_231' 'county_code_237' 'county_code_241'
+ 'county_code_244' 'county_code_247' 'county_code_249' 'county_code_258'
+ 'county_code_266' 'county_code_267' 'county_code_295' 'county_code_296'
+ 'lender_8' 'lender_182' 'lender_590' 'lender_1014' 'lender_1143'
+ 'lender_1530' 'lender_2390' 'lender_2535' 'lender_2861' 'lender_2920'
+ 'loan_type_0' 'loan_type_1' 'property_type_0' 'property_type_1'
+ 'loan_purpose_0' 'loan_purpose_1' 'loan_purpose_2' 'occupancy_0'
+ 'occupancy_1' 'preapproval_0' 'preapproval_1' 'preapproval_2'
+ 'applicant_ethnicity_0' 'applicant_ethnicity_1' 'applicant_ethnicity_2'
+ 'applicant_race_1' 'applicant_race_2' 'applicant_race_4'
+ 'applicant_race_5' 'applicant_sex_0' 'applicant_sex_1' 'applicant_sex_2'
+ 'co_applicant_0' 'co_applicant_1' 'loan_amount' 'applicant_income'
+ 'population' 'minority_population_pct' 'ffiecmedian_family_income'
+ 'tract_to_msa_md_income_pct' 'number_of_owner_occupied_units'
+ 'number_of_1_to_4_family_units']
+[4.21419883e-05 2.11829528e-05 6.68271038e-05 6.60256479e-05
+ 1.89903083e-04 1.06217045e-04 5.96065771e-05 1.62208537e-03
+ 4.94152755e-06 5.94819620e-05 8.12205727e-04 1.25954258e-04
+ 1.36007142e-05 2.91613045e-04 9.08814772e-05 1.78481368e-04
+ 1.07206973e-03 3.88952956e-04 1.24152328e-03 7.33192767e-05
+ 1.95652968e-04 5.27053554e-05 7.10825551e-05 1.67681082e-04
+ 2.48479633e-04 9.28617404e-05 1.74352979e-03 4.78958504e-04
+ 8.18401643e-05 1.28157534e-04 8.18699231e-04 5.40496187e-05
+ 3.67917506e-04 2.45299928e-04 1.46548683e-04 1.52720456e-03
+ 1.89922565e-04 5.08575120e-04 2.42477202e-04 3.11044687e-03
+ 3.34268378e-04 9.82557742e-04 3.64529284e-04 9.93745458e-04
+ 1.01343299e-04 1.73927399e-03 9.48605126e-04 2.69281277e-05
+ 1.10650176e-04 1.72066350e-05 1.08170164e-04 3.86632400e-05
+ 9.98613253e-05 6.66622619e-05 7.60012571e-05 5.85653136e-05
+ 5.77154450e-05 7.59835318e-05 4.14361322e-05 1.26090728e-04
+ 1.16338101e-04 2.17572994e-04 3.72115090e-05 5.91060737e-05
+ 7.38865257e-06 5.64922686e-05 4.44368857e-05 4.13602465e-05
+ 6.06044280e-05 9.66587434e-05 4.19035909e-05 6.77832779e-05
+ 4.37768269e-05 8.90895753e-05 4.81358328e-05 2.15640822e-05
+ 1.07665233e-05 8.09061331e-05 7.79405181e-05 7.87766158e-05
+ 4.62712513e-05 8.34049710e-05 2.01954251e-05 4.27024640e-05
+ 1.37414174e-04 9.44176147e-06 4.29352243e-05 7.77847667e-05
+ 6.53058235e-05 1.36404107e-04 2.81482297e-03 1.22558322e-01
+ 5.83653505e-02 4.30286433e-05 1.25172691e-04 6.82715211e-04
+ 8.34297226e-05 1.56833228e-03 6.50172593e-02 2.14531225e-02
+ 8.30645384e-02 2.26064669e-01 1.81426930e-02 4.02006188e-02
+ 5.41021628e-03 2.27631483e-03 2.78160673e-03 4.10184467e-04
+ 1.52357511e-03 2.84532613e-03 7.74956258e-04 2.09524459e-03
+ 1.16307547e-03 1.44392217e-04 9.68809962e-04 1.13398399e-03
+ 3.10458198e-04 1.10354979e-03 1.05702598e-03 1.68957790e-04
+ 1.63388996e-03 1.67620504e-03 1.92274875e-01 2.60927783e-02
+ 1.29480152e-02 1.85037891e-02 2.30489099e-02 9.38066277e-03
+ 1.22518886e-02 1.25101971e-02]
+                       feature_name  importance
+91                      lender_1014    0.122558
+92                      lender_1143    0.058365
+98                      loan_type_0    0.065017
+99                      loan_type_1    0.021453
+100                 property_type_0    0.083065
+101                 property_type_1    0.226065
+102                  loan_purpose_0    0.018143
+103                  loan_purpose_1    0.040201
+122                     loan_amount    0.192275
+123                applicant_income    0.026093
+124                      population    0.012948
+125         minority_population_pct    0.018504
+126       ffiecmedian_family_income    0.023049
+128  number_of_owner_occupied_units    0.012252
+129   number_of_1_to_4_family_units    0.012510
+/Users/yang/.pyenv/versions/3.8.0/lib/python3.8/site-packages/pandas/core/frame.py:4272: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  return super().replace(
+
