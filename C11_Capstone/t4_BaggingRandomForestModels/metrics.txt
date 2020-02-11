@@ -1,0 +1,44 @@
+## A simple random forest model
+## nr.seed(1115)
+## rf_mod = RandomForestRegressor( n_estimators = 10, criterion = "mse", n_jobs = 2,
+##                                max_features = 100, min_samples_leaf = 5 )
+Mean Square Error      = 1.2421859999999998
+Root Mean Square Error = 1.1145339833311498
+Mean Absolute Error    = 0.61622
+Median Absolute Error  = 0.3999999999999999
+R^2                    = 0.5972791350399814
+
+
+## Optimized 
+Mean Square Error      = 1.2421859999999998
+Root Mean Square Error = 1.1145339833311498
+Mean Absolute Error    = 0.61622
+Median Absolute Error  = 0.3999999999999999
+R^2                    = 0.5972791350399814
+
+
+(187297, 130)
+(187297,)
+Best estimator max_features, min_samples_leaf: 
+60
+10
+Mean performance metric = 0.659
+STD of the metric       = 0.039
+Outcomes by cv fold
+Fold  1    0.613
+Fold  2    0.587
+Fold  3    0.682
+Fold  4    0.687
+Fold  5    0.673
+Fold  6    0.687
+Fold  7    0.681
+Fold  8    0.681
+Fold  9    0.603
+Fold 10    0.698
+
+Mean Square Error      = 1.2268474999999999
+Root Mean Square Error = 1.1076314820372342
+Mean Absolute Error    = 0.613535
+Median Absolute Error  = 0.3999999999999999
+R^2                    = 0.6022519281540475
+
